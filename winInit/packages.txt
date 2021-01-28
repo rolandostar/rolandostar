@@ -8,6 +8,7 @@ vscode
 git
 # nodejs.install
 nvm
+docker-desktop
 
 # Utilities
 7zip.install
@@ -19,6 +20,9 @@ hyper
 seafile-client
 virtualbox
 sumatrapdf
+typora
+wsl
+wsl-ubuntu-2004
 
 # Design
 paint.net
