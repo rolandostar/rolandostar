@@ -1,0 +1,41 @@
+# Browsers
+googlechrome
+
+# Text Editors / IDEs
+vscode
+
+# Dev Tools
+git
+# nodejs.install
+nvm
+
+# Utilities
+7zip.install
+office365proplus
+sharex
+synergy
+datagrip
+hyper
+seafile-client
+virtualbox
+sumatrapdf
+
+# Design
+paint.net
+drawio
+figma
+inkscape
+
+# Communication
+whatsapp
+skype
+telegram.install
+teamviewer
+discord
+
+# Entertainment
+steam
+leagueoflegends
+razer-synapse-2
+youtube-music
+parsec
