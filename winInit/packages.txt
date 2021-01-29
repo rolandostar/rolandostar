@@ -9,6 +9,7 @@ git
 # nodejs.install
 nvm
 docker-desktop
+postman
 
 # Utilities
 7zip.install
